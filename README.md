@@ -8,3 +8,4 @@ Components used are:
 + Web application to store and display the usage information.
 
 
+Project name is a combination of my last name "Gerritsen" and the words "Energy" and "Generation"
